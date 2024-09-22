@@ -1,0 +1,13 @@
+.event-details-meta input, .event-details-meta .wp-editor-container {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.event-details-meta input[type="date"] {
+    max-width: 400px;
+    margin-bottom: 30px;
+}
+
+.wp-editor-container {
+    margin-bottom: 20px;
+}

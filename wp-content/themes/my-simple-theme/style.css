@@ -1,0 +1,22 @@
+/*
+Theme Name: My Simple Theme
+Theme URI: https://josuebarros.com
+Author: Josue A. da S. Barros
+Author URI: http://josuebarros.com
+Description: A simple, barebones WordPress theme for plugin development.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: my-simple-theme
+*/
+
+/* Basic styles */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    color: #333;
+}

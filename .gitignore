@@ -1,0 +1,15 @@
+# Ignore WordPress core files
+/wp-admin/
+/wp-includes/
+*.log
+*.sql
+*.sqlite
+
+# Ignore uploaded content
+wp-content/uploads/
+
+# Ignore Docker volumes
+db_data/
+
+# Node dependencies
+node_modules/
